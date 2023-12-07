@@ -30,11 +30,21 @@ header {
     box-shadow: 0 2px 2px #3a3a3a;
 }
 
+header a {
+    text-decoration: none;
+    color: #3a3a3a;
+}
+
 h1 {
     font-family: 'Nova square', sans-serif;
-    color: #3a3a3a;
+    color: #252525;
     font-size: 72px;
+    letter-spacing: 2px;
 
+}
+
+nav{
+    letter-spacing: 2px;
 }
 
 /*Main Content*/

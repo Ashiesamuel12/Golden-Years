@@ -6,11 +6,15 @@ This website has a *Gallery* that showcases some of the living conditions as wel
 
 # User Experience
 
-## Favicon
+## Favicon.
 
 The facicon for this site was generated using favicon.io .
 
-## Color Pallet
+## Color Pallet.
 
 The color pallet was generated using coolors.co .
 Hex codes were used throughout the designing of the website.
+
+## Cascading style sheets.
+
+Most of the css was taken from code institute love running project.
