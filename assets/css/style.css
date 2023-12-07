@@ -3,44 +3,47 @@
 
 
 /*Asterisk selector to overide default styles from browser*/
-*{
+* {
     padding: 0;
     margin: 0;
     border: none;
 }
 
 /*General styles*/
-body{
+body {
     flex-direction: column;
     display: flex;
     min-height: 100vh;
-    font-family: 'DM Sans' , sans-serif;
+    font-family: 'DM Sans', sans-serif;
 }
 
 
 
 /*header*/
 header {
-    
+
     background-color: #EEE82C;
 }
 
-h1{
-    font-family: 'Nova square' , sans-serif;
+h1 {
+    font-family: 'Nova square', sans-serif;
+    color: #3a3a3a;
+    font-size: 72px;
+
 }
 
 /*Main Content*/
 main {
-    
+
     background-color: #D7CDCC;
 
-/*Make main element push footer down*/
-flex: 1 0 auto;
+    /*Make main element push footer down*/
+    flex: 1 0 auto;
 
 }
 
 /*Footer*/
 footer {
-    
+
     background-color: #261447
 }
