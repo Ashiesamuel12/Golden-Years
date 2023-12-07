@@ -13,3 +13,4 @@ The facicon for this site was generated using favicon.io .
 ## Color Pallet
 
 The color pallet was generated using coolors.co .
+Hex codes were used throughout the designing of the website.
