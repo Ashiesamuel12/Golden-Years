@@ -84,7 +84,22 @@ main {
 }
 
 /*Footer*/
-footer {
 
-    background-color: #2B4141
+footer{
+    background-color:#EEE82C ;
+    box-shadow: -2 2px 2px #3a3a3a;
+}
+#social-networks {
+    text-align: center;
+    padding: 20px 0;
+    display: flex;
+    justify-content:space-evenly ;
+    list-style-type: none;
+    
+}
+
+#social-networks i{
+    font-size: 160%;
+    padding: 5%;
+    color:#3a3a3a
 }
