@@ -6,7 +6,7 @@
 * {
     padding: 0;
     margin: 0;
-    border: none;
+    box-sizing: border-box;
 }
 
 /*General styles*/
@@ -28,6 +28,9 @@ header {
     z-index: 99;
     width: 100%;
     box-shadow: 0 2px 2px #3a3a3a;
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
    
     
     
@@ -42,14 +45,21 @@ h1 {
     font-family: 'Nova square', sans-serif;
     color: #252525;
     letter-spacing: 2px;
+    
 
 }
 
 /*Navbar styles*/
 nav {
     letter-spacing: 2px;
-
+    position: absolute;
     width: 100%;
+    background-color: #EEE82C;
+    left: 0;
+    padding: 0 1rem;
+    box-shadow: 0 2px 2px #3a3a3a;
+    display: none;
+    top: 100%;
 }
 
 /*Navbar Toggle*/
@@ -58,7 +68,16 @@ nav ul :hover {
     color: #04e735
 }
 
+#nav-toggle{
+    display: none;
+}
+#nav-toggle:checked~nav {
+    display: block;
+}
 
+.nav-toggle-label {
+    font-size: 2rem;
+}
 
 
 #menu {
@@ -80,7 +99,8 @@ main {
 
     /*Make main element push footer down*/
     flex: 1 0 auto;
-
+    /*Push main element down*/
+    margin-top: 47px;
 }
 
 /*Footer*/
