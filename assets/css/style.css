@@ -28,7 +28,7 @@ header {
     z-index: 99;
     width: 100%;
     box-shadow: 0 2px 2px #3a3a3a;
-    text-align: center;
+   
     
     
 }
@@ -41,7 +41,6 @@ header a {
 h1 {
     font-family: 'Nova square', sans-serif;
     color: #252525;
-    font-size: 72px;
     letter-spacing: 2px;
 
 }
@@ -49,27 +48,30 @@ h1 {
 /*Navbar styles*/
 nav {
     letter-spacing: 2px;
-    text-align:center;
-    
-    
+
     width: 100%;
 }
 
 /*Navbar Toggle*/
 
+nav ul :hover {
+    color: #04e735
+}
+
+
+
 
 #menu {
     list-style-type: none;
     font-size: 110%;
+    letter-spacing:2px ;
 }
 
 #menu>li {
     margin-bottom: 1rem;
 }
 
-nav ul :hover {
-  color: #04e735
-}
+
 
 /*Main Content*/
 main {

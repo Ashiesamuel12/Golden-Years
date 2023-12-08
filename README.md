@@ -18,3 +18,6 @@ Hex codes were used throughout the designing of the website.
 ## Cascading style sheets.
 
 Most of the css was taken from code institute love running project.
+
+## Fonts.
+All fonts used for this website were selected and imported from google fonts.
