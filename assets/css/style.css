@@ -147,4 +147,15 @@ nav{
 .nav-toggle-label{
     display: none;
 }
+
+#logo{
+    line-height: 75px;
+    font-size: 300%;
+    margin: 0 0.5rem;
+}
+
+/*main content*/
+main{
+    margin-top: 79px;
+}
 }
