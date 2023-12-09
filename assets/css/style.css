@@ -123,3 +123,28 @@ footer{
     padding: 5%;
     color:#3a3a3a
 }
+
+
+/*Media query : tablets and larger (768 and up)*/
+@media screen and (min-width: 768px){
+    /*Header*/
+nav{
+    width: fit-content;
+    position: relative;
+   padding-right: 1rem;   
+   display: block;
+   box-shadow: none;
+}
+
+    #menu{
+        display: flex;
+}
+
+#menu >li{
+    padding-left: 1rem;
+}
+
+.nav-toggle-label{
+    display: none;
+}
+}
