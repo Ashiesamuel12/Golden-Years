@@ -103,6 +103,13 @@ main {
     margin-top: 47px;
 }
 
+/*hero image*/
+#hero{
+    height: 500px;
+    width: 100%;
+    background: url("../images/pexels-pixabay-34761.jpg") no-repeat center center/cover;
+}
+
 /*Footer*/
 
 footer{
@@ -158,4 +165,11 @@ nav{
 main{
     margin-top: 79px;
 }
+}
+
+/*Large devices(laptops and desktops, 992px and up)*/
+@media screen and (min-width: 992px) {
+    nav ul :hover {
+            color: #04e735
+        }
 }
