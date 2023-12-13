@@ -14,7 +14,7 @@ body {
     display: flex;
     min-height: 100vh;
     font-family: 'DM Sans', sans-serif;
-    
+
 }
 
 .container {
@@ -59,7 +59,7 @@ nav {
     padding: 0 1rem;
     box-shadow: 0 2px 2px #3a3a3a;
     display: none;
-    top: 100%;
+    top: 6%;
 }
 
 /*Navbar Toggle*/
