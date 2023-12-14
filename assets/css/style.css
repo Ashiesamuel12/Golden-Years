@@ -1,28 +1,22 @@
 /*Google fonts*/
 @import url('https://fonts.googleapis.com/css2?family=DM+Sans:ital,opsz,wght@0,9..40,100;0,9..40,300;0,9..40,500;0,9..40,600;0,9..40,700;0,9..40,900;1,9..40,100;1,9..40,200;1,9..40,300;1,9..40,400;1,9..40,500;1,9..40,600;1,9..40,700;1,9..40,800&family=Nova+Square&display=swap');
-
 /*Asterisk selector to overide default styles from browser*/
 * {
     padding: 0;
     margin: 0;
     box-sizing: border-box;
 }
-
 /*General styles*/
 body {
     flex-direction: column;
     display: flex;
     min-height: 100vh;
     font-family: 'DM Sans', sans-serif;
-
 }
-
 .container {
     max-width: 1140px;
     margin: 0 auto;
-
 }
-
 /*header*/
 header {
     background-color: #EEE82C;
@@ -32,23 +26,17 @@ header {
     display: flex;
     justify-content: space-between;
     align-items: baseline;
-
-
-
 }
-
 header a {
     text-decoration: none;
     color: #3a3a3a;
 }
-
 h1 {
     font-family: 'Nova square', sans-serif;
     color: #252525;
     letter-spacing: 2px;
     font-size: 1.5rem;
 }
-
 /*Navbar styles*/
 nav {
     letter-spacing: 2px;
@@ -61,108 +49,92 @@ nav {
     display: none;
     top: 6%;
 }
-
 /*Navbar Toggle*/
 nav ul :hover {
     color: #04e735
 }
-
 .content-heading {
     font-size: 1.3rem;
     font-style: italic;
     margin: 1rem 1rem;
 }
-
 .paragraph-normal {
     padding: 1rem 1rem;
 }
-
 .paragraph-normal::first-letter {
     initial-letter: 2;
 }
-
 #nav-toggle {
     display: none;
 }
-
 #nav-toggle:checked~nav {
     display: block;
 }
-
 .nav-toggle-label {
     font-size: 2rem;
 }
-
 #menu {
     list-style-type: none;
     font-size: 110%;
     letter-spacing: 2px;
 }
-
 #menu>li {
     margin-bottom: 1rem;
 }
-
 /*Main Content*/
 main {
     background-color: #EBFCFB;
     /*Make main element push footer down*/
     flex: 1 0 auto;
 }
-
+#signup {
+    background-image: url("../images/pexels-lina-kivaka-2253911.jpg");
+    flex: 1 0 auto;
+}
 /*hero image*/
 #hero img {
     height: auto;
     width: 100%;
 }
-
 /* Gallery page */
 #photos img {
     width: 100%;
     line-height: 1em;
 }
-
 #photos {
     line-height: 0;
 }
-
 .sign-up-form {
-    width: 300px;
     box-shadow: 0 0 3px 0 rgba(0, 0, 0, 0.3);
     background: #fff;
-    padding: 20px;
-    margin: 8% auto 0;
+    padding: 1.5rem;
+    margin: 0 auto;
     text-align: center;
-
 }
-
-
-
-
+#sign-image {
+  width: 100%;
+  height: auto;
+  margin: 2rem auto;
+}
 /*Footer*/
 footer {
     background-color: #EEE82C;
     box-shadow: -2 2px 2px #3a3a3a;
 }
-
 #social-networks {
     text-align: center;
     padding: 20px 0;
     display: flex;
     justify-content: space-evenly;
     list-style-type: none;
-
 }
-
 #social-networks i {
     font-size: 160%;
     padding: 5%;
     color: #3a3a3a
 }
-
 /*Media query : tablets and larger (768 and up)*/
 @media screen and (min-width: 768px) {
-
     /*Header*/
     nav {
         width: fit-content;
@@ -171,26 +143,21 @@ footer {
         display: block;
         box-shadow: none;
     }
-
     #menu {
         display: flex;
     }
-
     #menu>li {
         padding-left: 1rem;
     }
-
     .nav-toggle-label {
         display: none;
     }
-
     #logo {
         line-height: 75px;
         font-size: 300%;
         margin: 0 0.5rem;
     }
 }
-
 /*Large devices(laptops and desktops, 992px and up)*/
 @media screen and (min-width: 992px) {
     nav ul :hover {
