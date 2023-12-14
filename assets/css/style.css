@@ -20,7 +20,7 @@ body {
 .container {
     max-width: 1140px;
     margin: 0 auto;
-    
+
 }
 
 /*header*/
@@ -126,18 +126,18 @@ main {
     line-height: 0;
 }
 
-.sign-up-form{
+.sign-up-form {
     width: 300px;
-    box-shadow: 0 0 3px 0 rgba(0,0,0,0.3);
+    box-shadow: 0 0 3px 0 rgba(0, 0, 0, 0.3);
     background: #fff;
     padding: 20px;
     margin: 8% auto 0;
     text-align: center;
-      
+
 }
 
 
-    
+
 
 /*Footer*/
 footer {
