@@ -98,3 +98,11 @@ The site was deployed using GitHub pages. The steps to deploy are as follows:
 ## Cascading style sheets
 
 + Most of the css were compared with that of the code institute love running project.
+
+## Html
+
++ Steps for the Html structure were inspired from the code institute love running project.
+
+# Acknowledgement
+
+A big thank you goes to my mentor [Spencer Bariball](https://github.com/5pence?tab=repositories) for taking his time to answer all my questions and for being there at everystep of my coding journey.
