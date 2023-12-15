@@ -39,26 +39,26 @@ This website has a *Gallery* that showcases some of the living conditions as wel
 
 + The home page immediately communicates to new and recurring users what the website is about and what it offers.
 + The article on the homepage communicates the thoroughly communicates the purpose of the website and what the mission of the golden years instition is.
-![Article on homepage](https://github.com/Ashiesamuel12/Golden-Years/blob/95ecbc84a64b3be9b3d38f7ed21ea312516384ac/readme/Article.png)
+![Article on homepage](https://github.com/Ashiesamuel12/Golden-Years/blob/fcd97768d95bcaf8108c9998863d000bb895e324/readme/Article.png)
 
 ## Gallery
 
 + The gallery showcases the lifestyle and satisfaction the golden years home gives to its residents.
-![Gallery](https://github.com/Ashiesamuel12/Golden-Years/blob/95ecbc84a64b3be9b3d38f7ed21ea312516384ac/readme/gallery-image.png)
+![Gallery](https://github.com/Ashiesamuel12/Golden-Years/blob/fcd97768d95bcaf8108c9998863d000bb895e324/readme/gallery-image.png)
 
 ## Sign Up page
 
 + The sign up page brings the user to a form that allows them to register their desire to be a part of the golden years institution.
 
 + The sign up page is also designed not only for elderly people willing to become residents but also for their family and friends that wish to find a place of residence for their elderly.
-![Sign up page](https://github.com/Ashiesamuel12/Golden-Years/blob/95ecbc84a64b3be9b3d38f7ed21ea312516384ac/readme/sign-up.png)
+![Sign up page](https://github.com/Ashiesamuel12/Golden-Years/blob/fcd97768d95bcaf8108c9998863d000bb895e324/readme/sign-up.png)
 
 ## Footer
 
 + This section of the page provides the user with the chance to follow the golden years old age home on all social media platforms to keep them up to date on what is new with golden age as well as to serve as a means of direct contact to the golden years home.
 
 + The footer appears on all three pages of the  website.
-![Footer](https://github.com/Ashiesamuel12/Golden-Years/blob/95ecbc84a64b3be9b3d38f7ed21ea312516384ac/readme/social-media.png)
+![Footer](https://github.com/Ashiesamuel12/Golden-Years/blob/fcd97768d95bcaf8108c9998863d000bb895e324/readme/social-media.png)
 
 # Technologies Used
 + The website was built using only Html and css.
