@@ -63,7 +63,12 @@ This website has a *Gallery* that showcases some of the living conditions as wel
 + The footer appears on all three pages of the  website.
 ![Footer](https://github.com/Ashiesamuel12/Golden-Years/blob/fcd97768d95bcaf8108c9998863d000bb895e324/readme/social-media.png)
 
+## Responsiveness
+
++ The website was made responsive with the use of different methods, mainly media queries and the use of flexbox.
+
 # Technologies Used
+
 + The website was built using only Html and css.
 
 + A Javascript script is being used for the [Font Awesome](http://fontawesome.com) icons used in the footer.
