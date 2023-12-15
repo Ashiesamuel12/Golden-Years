@@ -18,10 +18,6 @@ This website has a *Gallery* that showcases some of the living conditions as wel
 
 + Hex codes were used throughout the designing of the website.
 
-## Cascading style sheets
-
-+ Most of the css were compared with that of the code institute love running project.
-
 ## Fonts
 
 + All fonts used for this website were selected and imported from [google fonts](https://googlefonts.com).
@@ -63,4 +59,42 @@ This website has a *Gallery* that showcases some of the living conditions as wel
 # Technologies Used
 + The website was built using only Html and css.
 
-+ 
++ A Javascript script is being used for the [Font Awesome](http://fontawesome.com) icons used in the footer.
+
++ [Code Anywhere](http://codeanywhere.com) was used in writing part of the code.
+
++ [Git pod](http://gitpod.io)was also used in writing part of the code.
+
++ [Git hub](http://github.com) was used to store repository of the website.
+
+# Testing
+
+To test my website I have opened it on different devices, to see if it works as expected.
+
++ Browsers Tested
+
+1. Chrome.
+2. Edge.
+3. Safari.
+
++ Operating Systems
+
+1. IOS
+2. Android
+3. Windows
+
+# Deployment
+
+The site was deployed using GitHub pages. The steps to deploy are as follows:
+
++ In the GitHub repository, navigate to the Settings tab.
++ From the source section drop-down menu, select the Master Branch.
++ Once you've selected your branch and root directory, click "Save" to deploy your website. GitHub will generate a URL where your website will be hosted (usually in the format username.github.io/repository-name).
+
+# Validation
+
+# Credits
+
+## Cascading style sheets
+
++ Most of the css were compared with that of the code institute love running project.
