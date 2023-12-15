@@ -102,11 +102,11 @@ The site was deployed using GitHub pages. The steps to deploy are as follows:
 
 HTML
 
-[W3 html validator](https://github.com/Ashiesamuel12/Golden-Years/blob/734d93bb2a2b7ca2ec72d9cef91a88f09f93c90d/readme/w3-validator.png)
+![W3 html validator](https://github.com/Ashiesamuel12/Golden-Years/blob/734d93bb2a2b7ca2ec72d9cef91a88f09f93c90d/readme/w3-validator.png)
 
 CSS
 
-[W3 css validator](https://github.com/Ashiesamuel12/Golden-Years/blob/734d93bb2a2b7ca2ec72d9cef91a88f09f93c90d/readme/w3-css.png)
+![W3 css validator](https://github.com/Ashiesamuel12/Golden-Years/blob/734d93bb2a2b7ca2ec72d9cef91a88f09f93c90d/readme/w3-css.png)
 
 # Credits
 
