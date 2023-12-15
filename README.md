@@ -8,6 +8,13 @@ This website has a *Gallery* that showcases some of the living conditions as wel
 
 # User Experience
 
+## User Stories
+
++  As  a first time user i want the use of the to be easy and uncomplicated since it is mainly designed for an older audience.
+
++ As a returning user, I want to be able to access the gallery and see if there is anything new on it.
+
+
 ## Favicon
 
 + The favicon for this site was generated using [favicon](http://favicon.io) .
@@ -92,6 +99,14 @@ The site was deployed using GitHub pages. The steps to deploy are as follows:
 + Once you've selected your branch and root directory, click "Save" to deploy your website. GitHub will generate a URL where your website will be hosted (usually in the format username.github.io/repository-name).
 
 # Validation
+
+HTML
+
+[W3 html validator]()
+
+CSS
+
+[W3 css validator]()
 
 # Credits
 
